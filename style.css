@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background: linear-gradient(#FE4C78 0%, #60ebeb 100%);
+    font-style: cinzel;
+
+}
+
+iframe {
+    border-style: double;
+    border-spacing: 100px;
+    border-radius: 15px;
+    height: 300px;
+    border-color: red;
+}
+
+p {
+    font-size: 20px;
+    color: red;
+}
+
+h1 {
+    font-size: 50px;
+    color: yellow;
+    font-style: italic;
+
+}
+
+.links {
+    color: firebrick;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+
+
+}
+
+
+
+.links:hover {
+    background-color: dodgerblue;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
